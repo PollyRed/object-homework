@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/armcesyo6o5g6t2u?svg=true)](https://ci.appveyor.com/project/PollyRed/object-homework)
